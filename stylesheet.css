@@ -1,5 +1,10 @@
-.body {
+body {
 
   font-style: italic;
-  
+  font-weight: lighter;
+
+}
+
+h1 {
+  color: blue;
 }
