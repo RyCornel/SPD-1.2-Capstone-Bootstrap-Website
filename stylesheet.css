@@ -17,5 +17,9 @@ h3 {
 
 p {
   color: white;
-  font-size: 25;
+  font-size: 65;
+}
+
+label {
+  color: white;
 }
